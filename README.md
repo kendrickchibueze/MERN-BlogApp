@@ -2,6 +2,11 @@
 # Blog Application built in MERN stack
 A Full stack MERN Blog Application  where each user can be authenticated(login)  and create and view blog post. All other blog posts from all users can be viewed from the allBlogs tab.
 
+![](https://github.com/kendrickchibueze/MERN-BlogApp/blob/main/backend/Screenshot%20(194).png?raw=true)
+
+
+![](https://github.com/kendrickchibueze/MERN-BlogApp/blob/main/backend/Screenshot%20(195).png?raw=true)
+
 
 
 
